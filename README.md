@@ -1,2 +1,2 @@
 # LaboraThor
-LaboraThor é a solução definitiva para laboratórios que precisam otimizar e automatizar a chegada de pedidos em sua empresa.
+LaboraThor é a melhor solução para laboratórios modernos que precisam otimizar e automatizar a chegada de pedidos em sua Área Técnica. Painel para gestão de pacientes, exames e pedidos.
